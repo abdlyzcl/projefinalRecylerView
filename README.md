@@ -7,14 +7,17 @@
 
 <h2 id="Outputs">Outputs</h2>
 <p>
-  <img height= "400"   src="" alt="SS1" />
-  <img height= "400"  src="" alt="SS2" />
-  <img height= "400"  src="" alt="SS3" />
-  <img height= "400" src="" alt="SS4" />
-  <img height= "400" src="" alt="SS5" />
+  <img height= "400"   src="https://raw.githubusercontent.com/abdlyzcl/projefinalrecylerview/main/screens/CIKIS.jpg" alt="SS1" />
+  <img height= "400"  src="https://raw.githubusercontent.com/abdlyzcl/projefinalrecylerview/main/screens/E1.jpg" alt="SS2" />
+  <img height= "400"  src="https://raw.githubusercontent.com/abdlyzcl/projefinalrecylerview/main/screens/E2.jpg" alt="SS3" />
+  <img height= "400" src="https://raw.githubusercontent.com/abdlyzcl/projefinalrecylerview/main/screens/E3.jpg" alt="SS4" />
+  <img height= "400" src="https://raw.githubusercontent.com/abdlyzcl/projefinalrecylerview/main/screens/INTERNET.jpg" alt="SS5" />
 </p>
 
-
+## Clean Simple Architecture
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abdlyzcl/h5190018abdullahyazicioglu/main/images/mimariyapi.png" height="400" />
+</p>
 
 
 
