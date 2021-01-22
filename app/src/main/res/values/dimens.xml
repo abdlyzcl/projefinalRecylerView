@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardPadding">16dp</dimen>
+
+    <dimen name="listeImageView">200dp</dimen>
+    <dimen name="logoImageViewWidth">413dp</dimen>
+    <dimen name="logoImageViewHeight">738dp</dimen>
+
+    <dimen name="cardViewMargin">16dp</dimen>
+    <dimen name="cardViewImageWidth">100dp</dimen>
+    <dimen name="cardViewImageHeight">100dp</dimen>
+    <dimen name="cardViewImageMarginStart">16dp</dimen>
+    <dimen name="cardViewImageMarginTop">16dp</dimen>
+    <dimen name="cardViewImageMarginBottom">16dp</dimen>
+    
+    <dimen name="cardViewTextMarginStart">16dp</dimen>
+    <dimen name="cardViewTextSize">23sp</dimen>
+    <dimen name="cardViewText2MarginTop">16dp</dimen>
+
+    <dimen name="karakterDetayTextPadding">10dp</dimen>
+    <dimen name="karakterDetayTextSize">30sp</dimen>
+    <dimen name="karakterDetayText2Padding">10dp</dimen>
+    <dimen name="karakterDetayText2Size">20sp</dimen>
+    <dimen name="karakterDetayImageHeigt">617dp</dimen>
+
+
+
+</resources>

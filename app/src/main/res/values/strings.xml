@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">H5190018_AbdullahYaziciogluFinal</string>
+
+    <string name="internetKontrolAlertBaslik">INTERNET YOK!</string>
+    <string name="internetKontrolAlertMesaj">CIHAZINIZI INTERNETE BAGLAYINIZ</string>
+    <string name="internetKontrolAlertPositiveButtonText">AYARLARA GIT</string>
+    <string name="internetKontrolAlertNegativeButtonText">UYGULAMAYI KAPAT</string>
+
+
+
+    <string name="cikisYapAlertBaslik">ÇIKIŞ YAP</string>
+    <string name="cikisYapAlertMesaj">ÇIKIŞ YAPMAK İSTEDİĞİNİZE EMİN MİSİNİZ</string>
+    <string name="cikisYapAlertPositiveButtonText">EVET</string>
+    <string name="cikisYapAlertNegativeButtonText">HAYIR</string>
+
+
+    <string name="progressDialogBasligi">VERILER YUKLENIYOR LUTFEN BEKLEYINIZ</string>
+
+
+
+
+
+</resources>
